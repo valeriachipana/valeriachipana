@@ -1,7 +1,7 @@
 <h1 align="center">Hola , soy Valeria <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analytics+%26+Big+Data;Top+Academic+Performance;Python,+SQL,+Power+BI+%26+MS+Excel;En+b%C3%BAsqueda+de+nuevos+retos;Proactiva+y+entusiasta;Siempre+aprendiendo">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=1F6FEB&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Analytics+%26+Big+Data;Top+Academic+Performance;Python,+SQL,+Power+BI+%26+MS+Excel;En+b%C3%BAsqueda+de+nuevos+retos;Proactiva+y+entusiasta;Siempre+aprendiendo">
   </a>
 </p>
 
