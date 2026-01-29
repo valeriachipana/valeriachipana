@@ -7,7 +7,7 @@
 
 
 ### Sobre mí
-* Egresada de Management con orientación en Big Data & Analytics por la Universidad de Palermo 
+* Egresada de Management con orientación en Big Data & Analytics por la [Universidad de Palermo](https://www.palermo.edu/entre-las-mejores-del-mundo/) 
 * Actualmente interesada en prácticas profesionales en **análisis de datos y Business Intelligence (BI)**.
 * Formación en análisis exploratorio, visualización y modelado básico de datos utilizando SQL, Power BI y Python.
 * Me enfoco en transformar datos en insights útiles para la toma de decisiones.
